@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2092,
+          30.0138
+        ]
+      },
+      "properties": {
+        "name": "Giza Governorate Building",
+        "type": "Governorate HQ",
+        "address": "Kornish El Nile, Giza",
+        "district": "Giza",
+        "phone": "+20-2-35727000",
+        "working_hours": "Sun-Thu 8:00 AM - 3:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.184,
+          29.994
+        ]
+      },
+      "properties": {
+        "name": "Haram District Office",
+        "type": "District Office",
+        "address": "El Haram St, Haram",
+        "district": "Haram",
+        "phone": "+20-2-35370000",
+        "working_hours": "Sun-Thu 8:00 AM - 3:00 PM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "kahraba_com",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "Name": "Giza power td", "Address": "منطقة أولى، الجيزة، بالقرب من منطقة الدقي، وكوبري جامعة القاهرة، وميدان النهضة، محافظة الجيزة، مصر.", "Company": "Giza powertp", "District": "المنطقه الاولي بالجيزه (قريبه من الدقي)", "Type": "شركه كهرباء", "Status": "نشطه", "Source": "Google Earth", "layer": "GIZA TP", "path": "C:\\Users\\pc\\Desktop\\Giza project\\شركات الكهرباء\\GIZA TP.shp" }, "geometry": { "type": "Point", "coordinates": [ 31.216736535125179, 30.027335420556199, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "Name": "جزيره الدهب", "Address": "شارع البحر الأعظم، ساقية مكي، الجيزة", "Company": "الشركة المصرية لنقل الكهرباء", "District": "جنوب الجيزه", "Type": null, "Status": "Active", "Source": null, "layer": "جزيرة الدهب", "path": "C:/Users/pc/Desktop/Giza project/محطات التحويل/جزيرة الدهب.shp" }, "geometry": { "type": "Point", "coordinates": [ 31.214245680382991, 29.997895614687991, 0.0 ] } }
+]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.206,
+          30.019
+        ]
+      },
+      "properties": {
+        "name": "Giza Technical Institute",
+        "type": "Technical Institute",
+        "address": "Ahmed Orabi St, Giza",
+        "district": "Giza",
+        "phone": "+20-2-35750000",
+        "capacity": 3000,
+        "working_hours": "8:00 AM - 3:00 PM"
+      }
+    }
+  ]
+}

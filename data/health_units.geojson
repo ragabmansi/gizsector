@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2,
+          30.019
+        ]
+      },
+      "properties": {
+        "name": "Agouza Health Unit",
+        "type": "Health Unit",
+        "address": "Agouza District, Giza",
+        "district": "Ageouza",
+        "phone": "+20-2-37601000",
+        "working_hours": "8:00 AM - 8:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.187,
+          29.998
+        ]
+      },
+      "properties": {
+        "name": "Haram Health Unit",
+        "type": "Health Unit",
+        "address": "Haram District, Giza",
+        "district": "Haram",
+        "phone": "+20-2-35381000",
+        "working_hours": "8:00 AM - 8:00 PM"
+      }
+    }
+  ]
+}
