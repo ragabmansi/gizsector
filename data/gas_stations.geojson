@@ -1,17 +1,17 @@
-{
-"type": "FeatureCollection",
-"name": "gas_statstion",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "full_id": "n3366482397", "osm_id": "3366482397", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ بترول" }, "geometry": { "type": "Point", "coordinates": [ 31.1745244, 29.7621647 ] } },
-{ "type": "Feature", "properties": { "full_id": "n7506526288", "osm_id": "7506526288", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooringg point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 3", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.5958327, 31.0925903 ] } },
-{ "type": "Feature", "properties": { "full_id": "n7506526289", "osm_id": "7506526289", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooringg point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 2", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.6145862, 31.1076295 ] } },
-{ "type": "Feature", "properties": { "full_id": "n7506526291", "osm_id": "7506526291", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooring point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 1", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.634703, 31.125353 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717756", "osm_id": "9415717756", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9472244, 30.1091011 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717761", "osm_id": "9415717761", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 31.0028346, 30.1788396 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717796", "osm_id": "9415717796", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9855372, 30.172035 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717822", "osm_id": "9415717822", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9740091, 30.1667204 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717835", "osm_id": "9415717835", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9613288, 30.1539719 ] } },
-{ "type": "Feature", "properties": { "full_id": "n9415717862", "osm_id": "9415717862", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9395961, 30.1268188 ] } }
-]
-}
+// {
+// "type": "FeatureCollection",
+// "name": "gas_statstion",
+// "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+// "features": [
+// { "type": "Feature", "properties": { "full_id": "n3366482397", "osm_id": "3366482397", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ بترول" }, "geometry": { "type": "Point", "coordinates": [ 31.1745244, 29.7621647 ] } },
+// { "type": "Feature", "properties": { "full_id": "n7506526288", "osm_id": "7506526288", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooringg point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 3", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.5958327, 31.0925903 ] } },
+// { "type": "Feature", "properties": { "full_id": "n7506526289", "osm_id": "7506526289", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooringg point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 2", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.6145862, 31.1076295 ] } },
+// { "type": "Feature", "properties": { "full_id": "n7506526291", "osm_id": "7506526291", "osm_type": "node", "man_made": "رصيف بحري", "mooring": "mooring point", "floating": "yes", "descriptio": "sumed SidKerir Single Point Mooring 1", "type": "سوميد" }, "geometry": { "type": "Point", "coordinates": [ 29.634703, 31.125353 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717756", "osm_id": "9415717756", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9472244, 30.1091011 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717761", "osm_id": "9415717761", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 31.0028346, 30.1788396 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717796", "osm_id": "9415717796", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9855372, 30.172035 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717822", "osm_id": "9415717822", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9740091, 30.1667204 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717835", "osm_id": "9415717835", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9613288, 30.1539719 ] } },
+// { "type": "Feature", "properties": { "full_id": "n9415717862", "osm_id": "9415717862", "osm_type": "node", "man_made": "محطة ضخ", "mooring": null, "floating": null, "descriptio": null, "type": "محطة ضخ غاز طبيعي" }, "geometry": { "type": "Point", "coordinates": [ 30.9395961, 30.1268188 ] } }
+// ]
+
