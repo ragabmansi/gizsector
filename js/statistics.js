@@ -18,7 +18,7 @@ const StatisticsModule = (() => {
     { layerId: 'mosques',       label: 'Mosques',            icon: 'fa-mosque',            color: '#16a34a', bg: '#f0fdf4' },
     { layerId: 'churches',      label: 'Churches',           icon: 'fa-church',            color: '#9333ea', bg: '#faf5ff' },
     { layerId: 'health-units',  label: 'Health Units',       icon: 'fa-heart-pulse',       color: '#f97316', bg: '#fff7ed' },
-    { layerId: 'clinics',       label: 'Clinics',            icon: 'fa-stethoscope',       color: '#fb923c', bg: '#fff7ed' },
+    // { layerId: 'clinics',       label: 'Clinics',            icon: 'fa-stethoscope',       color: '#fb923c', bg: '#fff7ed' },
     { layerId: 'government',    label: 'Govt. Buildings',    icon: 'fa-landmark',          color: '#0891b2', bg: '#ecfeff' },
   ];
 
