@@ -1,24 +1,13 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.206,
-          30.019
-        ]
-      },
-      "properties": {
-        "name": "Giza Technical Institute",
-        "type": "Technical Institute",
-        "address": "Ahmed Orabi St, Giza",
-        "district": "Giza",
-        "phone": "+20-2-35750000",
-        "capacity": 3000,
-        "working_hours": "8:00 AM - 3:00 PM"
-      }
-    }
-  ]
+"type": "FeatureCollection",
+"name": "adaratmhlat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "الاسم": "التضامن الاجتماعي", "العنو": "شارع حافظ حسن", "التصن": "خدميه حكوميه (تضامن" }, "geometry": { "type": "Point", "coordinates": [ 31.208729370863807, 30.010453582267075, 0.0 ] } },
+{ "type": "Feature", "properties": { "الاسم": "العمل", "العنو": "80 شارع صلاح سالم", "التصن": "خدميه حكوميه" }, "geometry": { "type": "Point", "coordinates": [ 31.213699990362329, 29.993430103916239, 0.0 ] } },
+{ "type": "Feature", "properties": { "الاسم": "الطرق والنقل", "العنو": "28شارع السودان", "التصن": "خدميه حكوميه" }, "geometry": { "type": "Point", "coordinates": [ 31.213184702212288, 29.980182304170057, 0.0 ] } },
+{ "type": "Feature", "properties": { "الاسم": "الشؤون الماليه والاداريه", "العنو": "شارع ترعه الزمر", "التصن": "حكوميه اداريه" }, "geometry": { "type": "Point", "coordinates": [ 31.208725398558329, 30.010530074103713, 0.0 ] } },
+{ "type": "Feature", "properties": { "الاسم": "امن الجيزه", "العنو": "تقاطع طريق الواحات مع الفيوم", "التصن": "حكوميه امنيه وخدميه" }, "geometry": { "type": "Point", "coordinates": [ 31.208848683919655, 30.013065872691925, 0.0 ] } },
+{ "type": "Feature", "properties": { "الاسم": "مصلحه الشهر العقاري والتوثيق", "العنو": "داخل مجمع المحاكم جنوب جيزه", "التصن": "حكوميه عدليه" }, "geometry": { "type": "Point", "coordinates": [ 31.217931575781677, 30.010273371618837, 0.0 ] } }
+]
 }

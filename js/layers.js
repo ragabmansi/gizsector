@@ -27,7 +27,7 @@ const LayersModule = (() => {
     // ── EDUCATION ───────────────────────────────────────────────────────
     { id: 'universities',    name: 'ATM',      file: 'data/universities.geojson',    group: 'Education',       category: 'education',      geometry: 'point',   color: '#8b5cf6', icon: 'fa-graduation-cap',      visible: true  },
     { id: 'banks',         name: 'البنوك',           file: 'data/banks.geojson',         group: 'Education',       category: 'education',      geometry: 'point',   color: '#a78bfa', icon: 'fa-school',              visible: true  },
-    { id: 'institutes',      name: 'Institutes',        file: 'data/institutes.geojson',      group: 'Education',       category: 'education',      geometry: 'point',   color: '#c4b5fd', icon: 'fa-building-columns',    visible: false },
+    { id: 'institutes',      name: 'الادارات المحلية',        file: 'data/institutes.geojson',      group: 'Education',       category: 'education',      geometry: 'point',   color: '#c4b5fd', icon: 'fa-building-columns',    visible: false },
 
     // ── EMERGENCY SERVICES ───────────────────────────────────────────────
     { id: 'fire-stations',   name: 'المدارس',     file: 'data/schools.geojson',   group: 'Emergency',       category: 'emergency',      geometry: 'point',   color: '#dc2626', icon: 'fa-fire-extinguisher',   visible: true  },
