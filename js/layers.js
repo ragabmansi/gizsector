@@ -21,7 +21,7 @@ const LayersModule = (() => {
     // ── HEALTH ──────────────────────────────────────────────────────────
     { id: 'hospitals',       name: 'المستشفيات',         file: 'data/hospitals.geojson',       group: 'Health',          category: 'health',         geometry: 'point',   color: '#ef4444', icon: 'fa-hospital',            visible: true  },
     { id: 'health-units',    name: 'العيادات',      file: 'data/health_units.geojson',    group: 'Health',          category: 'health',         geometry: 'point',   color: '#f97316', icon: 'fa-heart-pulse',         visible: true  },
-    // { id: 'clinics',         name: 'محطات الغاز',           file: 'data/gas_stations.geojson',         group: 'Health',          category: 'health',         geometry: 'point',   color: '#fb923c', icon: 'fa-stethoscope',         visible: false },
+    { id: 'clinics',         name: 'محطات الغاز',           file: 'data/gas_stations.geojson',         group: 'Health',          category: 'health',         geometry: 'point',   color: '#fb923c', icon: 'fa-stethoscope',         visible: false },
     { id: 'pharmacies',      name: 'مواقف المواصلات',        file: 'data/busstation.geojson',      group: 'Health',          category: 'health',         geometry: 'point',   color: '#22c55e', icon: 'fa-pills',               visible: false },
 
     // ── EDUCATION ───────────────────────────────────────────────────────
