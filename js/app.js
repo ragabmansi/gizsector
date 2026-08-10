@@ -42,10 +42,18 @@
   await _sleep(400);
 
   // 7. Show app
-  Utils.hideLoadingScreen();
+ // 7. Show app
+Utils.hideLoadingScreen();
 
-  // 8. Wire up UI
-  _bindUI();
+// Force Leaflet to recalculate its size
+requestAnimationFrame(() => {
+  requestAnimationFrame(() => {
+    MapModule.invalidateSize();
+  });
+});
+
+// 8. Wire up UI
+_bindUI();
   _bindKeyboardShortcuts();
 
   Utils.toast('GizaGIS loaded successfully', 'success', 3000);
