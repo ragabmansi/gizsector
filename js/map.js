@@ -14,8 +14,8 @@ const MapModule = (() => {
   /**
    * Default center: Port Said, Egypt
    */
-  const DEFAULT_CENTER = [31.2653, 32.3019];
-  const DEFAULT_ZOOM   = 11;
+  const DEFAULT_CENTER = [30.0131, 31.2089];
+  const DEFAULT_ZOOM   = 14;
 
   const MIN_ZOOM = 7;
   const MAX_ZOOM = 19;
